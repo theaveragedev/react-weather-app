@@ -1,5 +1,6 @@
 ## React Weather App
 A simple app to fetch weather data. The background is set to change depending on the temperature.
+We have to get a https://openweathermap.org/api key to use the app. Add it to the App.js file.
 
 ## Available Scripts
 
