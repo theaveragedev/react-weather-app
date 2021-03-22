@@ -8,6 +8,11 @@ body {
   font-family: 'montseratt', sans-serif;
 }
 
+.container {
+  width: 400px;
+  margin: auto;
+}
+
 .app {
   background-image: url('./assets/cold-bg.jpg');
   background-size: cover;
